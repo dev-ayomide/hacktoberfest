@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taiwo Ayomide](https://github.com/dev-ayomide)
+- Place: Lagos, Nigeria
+- Bio: Fullstack Web Developer
+- GitHub: [Taiwo Ayomide](https://github.com/dev-ayomide)
